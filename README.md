@@ -66,12 +66,12 @@ NOTE: This tool was tested under the following conditions:
 4. Processor : Quad Core(intel i3-3GHz)
 
 COPS OUTPUT FILE (Test.Specific.SCNAs) FORMAT:
-Coloumn 1 : Chromosome name
-Coloumn 2 : Start position of SCNA
-Coloumn 3 : End position of SCNA
-Coloumn 4 : Cumulative log 2 ratio
-Coloumn 5 : t-statistic
-Coloumn 6 : P-Value
+Column 1 : Chromosome name
+Column 2 : Start position of SCNA
+Column 3 : End position of SCNA
+Column 4 : Cumulative log 2 ratio
+Column 5 : t-statistic
+Column 6 : P-Value
 
 Breakpoint Detection Module:
 The user needs to provide additional parameters such as the mean and standard deviation of the
